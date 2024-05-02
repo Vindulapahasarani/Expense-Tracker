@@ -1,5 +1,5 @@
 # Expense-Tracker
-Your code looks good! It creates a simple expense tracker with functionality to add, edit, and delete expenses.
+It creates a simple expense tracker with functionality to add, edit, and delete expenses.
 
 ![image](https://github.com/Vindulapahasarani/Expense-Tracker/assets/85609775/978fc90c-74ec-4138-a574-2cb47e7d05b7)
 
